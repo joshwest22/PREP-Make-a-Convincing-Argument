@@ -1,0 +1,2 @@
+# PREP-Make-a-Convincing-Argument
+Based on your Cause listed in the WDD server, describe a misconception that people have about you cause. It should be specific. Using the materials in the reading, describe how you can make a convincing argument to help a person through that misconception. To get full credit you must demonstrate thoughtfulness and tie your cause to all the materials in the reading.
