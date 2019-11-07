@@ -1,0 +1,31 @@
+body
+{
+background-color: cornflowerblue;
+font-size: 21px;
+font-family: 'Open Sans', sans-serif;
+}
+.myArg
+{
+border: solid navy 4px;
+border-radius: 25px 25px;
+background-color:aliceblue;
+padding: 10px;
+}
+#CSinSTEM
+{
+    width:45%;
+    display: inline-block;
+    overflow: auto;
+    
+}
+quote
+{
+    font-style: italic;
+}
+#sources
+{
+border: solid navy 4px;
+border-radius: 25px 25px;
+background-color:aliceblue;
+padding: 10px;    
+}
